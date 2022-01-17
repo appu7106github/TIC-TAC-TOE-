@@ -105,6 +105,4 @@ int check_for_win()
 
     else
         return -1;
-
-
 }
