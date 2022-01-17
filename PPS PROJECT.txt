@@ -1,9 +1,4 @@
 TIC TAC TOE
-TEAM MEMBERS
-REGISTER NUMBER:RA2111011010014(APPU VINAYAK C M)
-                RA2111011010005(ASHWINI KRISHNA )
-                RA2111011010021(SAM JAMES)
-                RA2111011010024(SHAIK ASHFAQ HMED)
 #include <stdio.h>
 #include <term.h>
 char box[10]={'0','1','2','3','4','5','6','7','8','9'};
